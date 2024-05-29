@@ -1,2 +1,3 @@
 "This is the first file in the GitHubProject" 
 "adding this line to FirstFile" 
+"Adding this line to test for SCM Poll trigger event"
